@@ -11,7 +11,7 @@ homepage = "https://github.com/bqleine/wallpepper"
 repository = "https://github.com/bqleine/wallpepper"
 
 [dependencies]
-ffmpeg-next = "5.1.1"  # Downgrade back to 5.1.1
+ffmpeg-next = "=4.4.0" 
 
 [dependencies.sdl2]
 version = "0.35.2"
